@@ -17,7 +17,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  MaterialApp(
-        title: 'Photo viewer', home: GalleryPage(title:'image Gallery',urls:urls));
+        title: 'Photo viewer1', home: GalleryPage(title:'image Gallery',urls:urls));
   }
 }
 
